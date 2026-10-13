@@ -29,8 +29,8 @@
 		"graphql-request": "^6.1.0",
 		"gray-matter": "^4.0.3",
 		"html-react-parser": "^4.2.2",
-		"js-cookie": "^3.0.5",
-		"lodash": "^4.17.21",
+		"js-cookie": "^3.0.7",
+		"lodash": "^4.18.1",
 		"mongodb": "3.7.3",
 		"next-axiom": "0.18.0",
 		"next-urql": "5.0.2",
@@ -40,11 +40,11 @@
 		"react-waypoint": "^10.3.0",
 		"remark": "^14.0.2",
 		"remark-html": "^15.0.1",
-		"sanitize-html": "2.11.0",
+		"sanitize-html": "2.17.7",
 		"tailwind-merge": "^1.13.2",
 		"urql": "4.0.4",
-		"uuid": "^9.0.1",
-		"validator": "^13.6.0",
+		"uuid": "^14.0.0",
+		"validator": "^13.15.35",
 		"zustand": "^4.3.3"
 	},
 	"devDependencies": {
@@ -63,10 +63,10 @@
 		"@types/react-dom": "^18.0.6",
 		"@types/sanitize-html": "2.9.0",
 		"@types/uuid": "^9.0.5",
-		"@types/validator": "^13.1.3",
+		"@types/validator": "^13.15.10",
 		"autoprefixer": "^10.4.7",
 		"concurrently": "^8.2.1",
 		"eslint": "^8.51.0",
-		"postcss": "^8.4.14"
+		"postcss": "^8.5.23"
 	}
 }
